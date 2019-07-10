@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CallRecorder</string>
+    <string name="title_permission">Permission</string>
+    <string name="content_permission">Izinkan aplikasi mengakses %s</string>
+</resources>
